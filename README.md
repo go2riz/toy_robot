@@ -111,3 +111,11 @@ In Fact the author of this test himself has described, why this test is still re
 [Toy Robot Coding Puzzle](https://joneaves.wordpress.com/2014/07/21/toy-robot-coding-test/)
 
 All the very best !!!
+
+#### How to setup and run application?
+
+- Required version of ruby is 2.7.3
+- Clone repo.
+- Run command 'bundle install' after changing directory to 'toy-robot'.
+- Run command 'ruby toy_robot.rb' and then follow all commands mentioned above.
+- To run tests, run command 'bundle exec rspec spec'.
