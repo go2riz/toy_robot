@@ -116,6 +116,6 @@ All the very best !!!
 
 - Required version of ruby is 2.7.3
 - Clone repo.
-- Run command 'bundle install' after changing directory to 'toy-robot'.
+- Run command 'bundle install' after changing directory to 'toy_robot'.
 - Run command 'ruby toy_robot.rb' and then follow all commands mentioned above.
 - To run tests, run command 'bundle exec rspec spec'.
